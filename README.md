@@ -1,5 +1,5 @@
 # filter_of_CNN
-What Your Project Does (Simplified)
+What this Project Does (Simplified)
 
 Goal
  visualizing what the filters (kernels) inside a Convolutional Neural Network (CNN) “see” — i.e., which patterns or features activate them the most.
